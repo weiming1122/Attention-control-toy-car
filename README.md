@@ -1,4 +1,4 @@
-# attention-control-toy-car
+# Attention-control-toy-car
 
 Real-time EEG data acquisition from EEG devices (e.g., OpenBCI)
 
